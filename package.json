@@ -21,15 +21,20 @@
   },
   "homepage": "https://github.com/ericcchiu/react-nodejs-parcel-boilerplate#readme",
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "eslint": "^7.19.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.2.1"
   },
   "dependencies": {
+    "chart.js": "^2.9.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
